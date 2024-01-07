@@ -21,26 +21,16 @@ Tech Autodidact, Engineer & Programmer passionate about solving technology probl
 
 # Latest Videos:
 
-[![Latest Video](https://img.youtube.com/vi/cUWGLik3nYQ/0.jpg)](https://youtube.com/cUWGLik3nYQ)
-
-[![Latest Video](https://img.youtube.com/vi/rYMLwT94GCc/0.jpg)](https://youtube.com/rYMLwT94GCc)
-
-[![Latest Video](https://img.youtube.com/vi/-90OHI_Gd80/0.jpg)](https://youtube.com/-90OHI_Gd80)
-
-# Latest Videos:
-
 <div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;">
 
-[<img src="https://img.youtube.com/vi/cUWGLik3nYQ/0.jpg" width="200">](https://youtube.com/cUWGLik3nYQ)
- [Your First Video Title](https://youtube.com/cUWGLik3nYQ)
+[<img src="https://img.youtube.com/vi/cUWGLik3nYQ/0.jpg" width="200">](https://www.youtube.com/watch?v=cUWGLik3nYQ&t=714s)
+ 
+[<img src="https://img.youtube.com/vi/rYMLwT94GCc/0.jpg" width="200">](https://www.youtube.com/watch?v=rYMLwT94GCc&t=2s)
 
-[<img src="https://img.youtube.com/vi/rYMLwT94GCc/0.jpg" width="200">](https://youtube.com/rYMLwT94GCc)
- [Your Second Video Title](https://youtube.com/rYMLwT94GCc)
-
-[<img src="https://img.youtube.com/vi/-90OHI_Gd80/0.jpg" width="200">](https://youtube.com/-90OHI_Gd80)
- [Your Third Video Title](https://youtube.com/-90OHI_Gd80)
-
+[<img src="https://img.youtube.com/vi/v=XHQD_RcDlWY&t=40s/0.jpg" width="200">](https://www.youtube.com/watch?v=XHQD_RcDlWY&t=40s)
 </div>
+
+
 
 
 
