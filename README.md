@@ -18,11 +18,11 @@ Tech Autodidact, Engineer & Programmer passionate about solving technology probl
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/unbox_the_insights/)
 
 # Latest Videos:
-[![Latest Video](https://img.shields.io/badge/Latest%20Video-Video%2018%20Title-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/cUWGLik3nYQ)
+[![Latest Video](https://img.youtube.com/vi/YourVideo1ID/0.jpg)](https://youtu.be/cUWGLik3nYQ)
 
-[![Latest Video](https://img.shields.io/badge/Latest%20Video-Video%2018%20Title-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/rYMLwT94GCc)
+[![Latest Video](https://img.youtube.com/vi/YourVideo1ID/0.jpg)](https://youtu.be/rYMLwT94GCc)
 
-[![Latest Video](https://img.shields.io/badge/Latest%20Video-Video%2018%20Title-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-90OHI_Gd80)
+[![Latest Video](https://img.youtube.com/vi/YourVideo1ID/0.jpg)](https://youtu.be/-90OHI_Gd80)
 
 
 
