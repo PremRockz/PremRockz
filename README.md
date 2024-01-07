@@ -21,13 +21,13 @@ Tech Autodidact, Engineer & Programmer passionate about solving technology probl
 
 # Latest Videos:
 
-<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;">
+<div style="display:flex;justify-content:center;align-items:center;">
 
-[<img src="https://img.youtube.com/vi/cUWGLik3nYQ/0.jpg" width="200">](https://www.youtube.com/watch?v=cUWGLik3nYQ&t=714s)
+[<img src="https://img.youtube.com/vi/cUWGLik3nYQ/0.jpg">](https://www.youtube.com/watch?v=cUWGLik3nYQ&t=714s)
  
-[<img src="https://img.youtube.com/vi/rYMLwT94GCc/0.jpg" width="200">](https://www.youtube.com/watch?v=rYMLwT94GCc&t=2s)
+[<img src="https://img.youtube.com/vi/rYMLwT94GCc/0.jpg">](https://www.youtube.com/watch?v=rYMLwT94GCc&t=2s)
 
-[<img src="https://img.youtube.com/vi/v=XHQD_RcDlWY&t=40s/0.jpg" width="200">](https://www.youtube.com/watch?v=XHQD_RcDlWY&t=40s)
+[<img src="https://img.youtube.com/vi/XHQD_RcDlWY/0.jpg">](https://www.youtube.com/watch?v=XHQD_RcDlWY&t=40s)
 </div>
 
 
