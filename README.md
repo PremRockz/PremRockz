@@ -15,14 +15,33 @@ Tech Autodidact, Engineer & Programmer passionate about solving technology probl
 
 [![Medium](https://img.shields.io/badge/Medium-Read-blue?style=for-the-badge&logo=medium)](https://medium.com/@prem__kumar)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/unbox_the_insights/)
+[![Google Blogger](https://img.shields.io/badge/Google%20Blogger-Read-blue?style=for-the-badge&logo=blogger)](https://unboxyourinsights.blogspot.com/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/unbox_the_insights/)
 
 # Latest Videos:
-[![Latest Video](https://img.youtube.com/vi/YourVideo1ID/0.jpg)](https://youtu.be/cUWGLik3nYQ)
 
-[![Latest Video](https://img.youtube.com/vi/YourVideo1ID/0.jpg)](https://youtu.be/rYMLwT94GCc)
+[![Latest Video](https://img.youtube.com/vi/cUWGLik3nYQ/0.jpg)](https://youtube.com/cUWGLik3nYQ)
 
-[![Latest Video](https://img.youtube.com/vi/YourVideo1ID/0.jpg)](https://youtu.be/-90OHI_Gd80)
+[![Latest Video](https://img.youtube.com/vi/rYMLwT94GCc/0.jpg)](https://youtube.com/rYMLwT94GCc)
+
+[![Latest Video](https://img.youtube.com/vi/-90OHI_Gd80/0.jpg)](https://youtube.com/-90OHI_Gd80)
+
+# Latest Videos:
+
+<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;">
+
+[<img src="https://img.youtube.com/vi/cUWGLik3nYQ/0.jpg" width="200">](https://youtube.com/cUWGLik3nYQ)
+ [Your First Video Title](https://youtube.com/cUWGLik3nYQ)
+
+[<img src="https://img.youtube.com/vi/rYMLwT94GCc/0.jpg" width="200">](https://youtube.com/rYMLwT94GCc)
+ [Your Second Video Title](https://youtube.com/rYMLwT94GCc)
+
+[<img src="https://img.youtube.com/vi/-90OHI_Gd80/0.jpg" width="200">](https://youtube.com/-90OHI_Gd80)
+ [Your Third Video Title](https://youtube.com/-90OHI_Gd80)
+
+</div>
+
 
 
 
